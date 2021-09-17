@@ -1,0 +1,25 @@
+.fam {
+    background-color:red;
+}
+.info{
+    background-color: rgb(255, 0, 221,0.5);
+    padding:2opx;
+    margin-bottom:15px;
+}
+.gem {
+    background-color:skyblue;
+}
+
+.yol{
+    background-color: yellow;
+}
+.org{
+    background-color: rgb(195, 77, 34,);
+}
+.info span {
+font-size: 30px;
+font-weight:bold;
+}
+.info .info-header{
+background-color: cadetblue;
+}
